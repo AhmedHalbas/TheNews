@@ -8,11 +8,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ggYkSjii-Do9Y2YdRN3bpszXxjsGko5Y/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/13-YyQpimbvfeROTm5IuacSeSYAKELpQA/view?usp=sharing">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/seven-news-logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <a href="https://drive.google.com/file/d/1ggYkSjii-Do9Y2YdRN3bpszXxjsGko5Y/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/13-YyQpimbvfeROTm5IuacSeSYAKELpQA/view?usp=sharing">
       <h3 align="center">The News</h3>
 
   </a>
